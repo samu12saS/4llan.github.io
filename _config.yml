@@ -1,2 +1,15 @@
-theme: jekyll-theme-hacker
+title: Allan M. de Azevedo
+description: 1 + 1 = 10
 author: Allan
+github_username: 4llan
+
+markdown: kramdown
+theme: minima
+
+minima:
+  date_format: "%Y-%m-%d"
+
+plugins:
+  - jekyll-feed
+  - jeyll-seo-tags
+  - jekyll-archives
