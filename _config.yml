@@ -13,3 +13,8 @@ plugins:
   - jekyll-feed
   - jeyll-seo-tags
   - jekyll-archives
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - docker-compose.yml
