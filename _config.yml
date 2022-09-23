@@ -9,6 +9,10 @@ theme: minima
 minima:
   date_format: "%Y-%m-%d"
 
+header_external_links:
+  - title: Ranking TJTO 2022
+    url: /ranking-tjto22/
+
 plugins:
   - jekyll-feed
   - jeyll-seo-tags
