@@ -10,10 +10,8 @@ minima:
   date_format: "%Y-%m-%d"
 
 header_external_links:
-  - title: Ranking TJTO 2022
-    url: /ranking-tjto22/
-  - title: Ranking TCE-TO 2022
-    url: /ranking-tceto22/
+  - title: Rankings FGV
+    url: https://rankings-fgv.allan.eti.br/
 
 plugins:
   - jekyll-feed
