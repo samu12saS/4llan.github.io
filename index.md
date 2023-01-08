@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Rascunhos desimportantes sobre aleatoriedades tecnológicas (ou não)
